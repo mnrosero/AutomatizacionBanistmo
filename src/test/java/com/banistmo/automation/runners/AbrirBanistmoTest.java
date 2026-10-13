@@ -30,7 +30,7 @@ public class AbrirBanistmoTest {
     @Test
     public void abrirPaginaDeBanistmo() {
 
-        // Crear el actor de Screenplay
+        // Crear el actor
         Actor usuario = Actor.named("Usuario Banistmo");
 
         // Asignar el navegador al actor
